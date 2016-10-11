@@ -28,4 +28,4 @@ Vi behöver även en [knapp](http://www.w3schools.com/tags/tag_button.asp) som m
 <button>Klicka på mig!</button>
 ```
 
-[### Gå till steg 2](docs/phase-2)
+###[Gå till steg 2](https://github.com/amygdaloideum/SBAB-pokedex-helloworld/tree/master/docs/phase-2)
