@@ -30,6 +30,6 @@ Vi behöver även en [knapp](http://www.w3schools.com/tags/tag_button.asp) som m
 
 När du är klar borde du ha något liknande detta:
 
-![picture alt](https://github.com/amygdaloideum/SBAB-pokedex-helloworld/tree/master/img/phase-one-result.png)
+![picture alt](phase-one-result.png)
 
 ###[Gå till steg 2](https://github.com/amygdaloideum/SBAB-pokedex-helloworld/tree/master/docs/phase-2)
