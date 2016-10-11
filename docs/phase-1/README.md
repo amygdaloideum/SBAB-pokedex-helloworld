@@ -1,4 +1,4 @@
-![picture alt](http://digitalagencynetwork.com/wp-content/uploads/2015/02/Google-Convert-Flash-Banners-HTML5.png "Title is optional")
+![picture alt](http://digitalagencynetwork.com/wp-content/uploads/2015/02/Google-Convert-Flash-Banners-HTML5.png)
 # Första steget: skapa markup
 
 HTML är sidans "skelett" som beskriver hur sidans struktur skall vara. (Lär dig mer [**här!**](http://www.w3schools.com/html/html_intro.asp))
@@ -27,5 +27,9 @@ Vi behöver även en [knapp](http://www.w3schools.com/tags/tag_button.asp) som m
 ```
 <button>Klicka på mig!</button>
 ```
+
+När du är klar borde du ha något liknande detta:
+
+![picture alt](https://github.com/amygdaloideum/SBAB-pokedex-helloworld/tree/master/img/phase-one-result.png)
 
 ###[Gå till steg 2](https://github.com/amygdaloideum/SBAB-pokedex-helloworld/tree/master/docs/phase-2)
