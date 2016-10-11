@@ -1,7 +1,7 @@
 ![picture alt](http://digitalagencynetwork.com/wp-content/uploads/2015/02/Google-Convert-Flash-Banners-HTML5.png "Title is optional")
 # Första steget: skapa markup
 
-HTML är sidans "skelett" som beskriver hur sidans struktur skall vara. Lär dig mer [**här!**](http://www.w3schools.com/html/html_intro.asp)
+HTML är sidans "skelett" som beskriver hur sidans struktur skall vara. (Lär dig mer [**här!**](http://www.w3schools.com/html/html_intro.asp))
 
 Det är dags att börja koda, klicka [**här!**](http://codepen.io/amygdaloideum/pen/amGwvp)
 
@@ -27,3 +27,5 @@ Vi behöver även en [knapp](http://www.w3schools.com/tags/tag_button.asp) som m
 ```
 <button>Klicka på mig!</button>
 ```
+
+[### Gå till steg 2](docs/phase-2)
