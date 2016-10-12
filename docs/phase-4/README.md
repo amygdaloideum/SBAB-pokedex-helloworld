@@ -32,4 +32,4 @@ function pokeCtrl($scope, $http){
 
 Lycka till! :)
 
-###[Gå till steg 5 (om du hinner)](https://github.com/amygdaloideum/SBAB-pokedex-helloworld/tree/master/docs/phase-5)
+###[Gå till steg 5](https://github.com/amygdaloideum/SBAB-pokedex-helloworld/tree/master/docs/phase-5)
