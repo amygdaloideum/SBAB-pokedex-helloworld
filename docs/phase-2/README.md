@@ -54,7 +54,7 @@ Man ser rubriken lite dåligt, gör den vit (eller någon annan färg)!
 
 Om du har följt tidigare instruktioner bör din sida nu se ut ungefär såhär:
 
-![picture alt](phase-one-result.png)
+![picture alt](phase-two-result.png)
 
 Men förhoppningsvis har du experimenterat lite själv också! :)
 
