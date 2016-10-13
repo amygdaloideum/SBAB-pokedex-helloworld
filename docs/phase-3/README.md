@@ -96,7 +96,7 @@ Sedan fyller vi på funktionen vi gjorde förut som anropades när vi klickade p
    $scope.name = 'pikachu'; // Den här är tillgänglig för vyn
    
    $scope.getPokemon = function(){
-     $http.get(pokeUrl + $scope.name).then(showPokemon);
+     $http.get(serverUrl + $scope.name).then(showPokemon);
    }
    
    function showPokemon(pokemon){
@@ -108,7 +108,7 @@ Sedan fyller vi på funktionen vi gjorde förut som anropades när vi klickade p
 Wow! Låt oss kolla lite närmare på vad vi lagt till:
 
 - **$http.get()** gör ett anrop till adressen vi anger inom paranteserna
-- **pokeUrl + $scope.name** klistrar ihop adressen till servern med namnet vi angett i fältet!
+- **serverUrl + $scope.name** klistrar ihop adressen till servern med namnet vi angett i fältet!
 - Severn gör alltså ett anrop till 'http://pokeapi.co/api/v2/pokemon/pikachu'
 - **.then()** kommer köra funktionen vi anger mellan paranteserna när anropet är klart.
 - funktionen **showPokemon()** sätter datat vi tagit emot till variabeln **$scope.pokemon**. 
