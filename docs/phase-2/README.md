@@ -1,6 +1,6 @@
 # Andra steget: Styla sidan med CSS
 
-Du har nu en rätt imponerande sida med en titel, en knapp och ett textfält på. Tungt! Det enda problemet är dock att sidan ser förjävlig ut, det är dags att lägga till lite skön **styling** med hjälp av CSS!.
+Du har nu en rätt imponerande sida med en titel, en knapp och ett textfält på. Tungt! Det enda problemet är dock att sidan ser riktigt ful ut, det är dags att lägga till lite skön **styling** med hjälp av CSS!.
 
 CSS står för **cascading style sheets** och används för att beskriva hur du vill att dina HTML-element ska se ut.
 
