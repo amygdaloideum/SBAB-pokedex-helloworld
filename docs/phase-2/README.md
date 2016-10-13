@@ -33,18 +33,18 @@ Man kan sedan style just den taggen genom att i CSS-filen ange en punkt framför
 }
 ```
 
-Bra! Men det ser fortfarande ganska fult ut, lägg till lite mer stil i wrapper-klassen. Experimentera gärna själv! Text som skrivs efter två snedstreck '//' kallas kommentarer och kommer ignoreras av kompilatorn!
+Bra! Men det ser fortfarande ganska fult ut, lägg till lite mer stil i wrapper-klassen. Experimentera gärna själv! Text som skrivs efter två snedstreck '//' eller inom '/* detta är en kommentar */' kallas kommentarer och kommer ignoreras av kompilatorn!
 
 ```
 .wrapper{
   background-color: rgba(0,0,0,0.5);
-  margin: auto; // Centrera denna div-taggen
-  text-align: center; // Centrera innehållet
-  max-width: 800px; // Denna taggen får max vara 800px bred
-  border-radius: 25px; // Runda taggens hörn med 25px
-  padding: 50px; // Lägg till 50px andrum inne i taggen.
-  margin-top: 100px; // Lägg till 50px andrum utanför i taggen.
-  box-shadow: 0 30px 40px -15px rgba(0,0,0,0.3); // Ge rutan en skugga
+  margin: auto; /* Centrera denna div-taggen */
+  text-align: center; /* Centrera innehållet */
+  max-width: 800px; /* Denna taggen får max vara 800px bred */
+  border-radius: 25px; /* Runda taggens hörn med 25px */
+  padding: 50px; /* Lägg till 50px andrum inne i taggen. */
+  margin-top: 100px; /* Lägg till 50px andrum utanför i taggen. */
+  box-shadow: 0 30px 40px -15px rgba(0,0,0,0.3); /* Ge rutan en skugga */
 }
 ```
 
